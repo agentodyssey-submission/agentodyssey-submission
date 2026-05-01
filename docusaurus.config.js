@@ -12,10 +12,10 @@ const config = {
   },
 
   url: "https://agentodyssey-submission.github.io",
-  baseUrl: "/agentodyssey-submission/",
+  baseUrl: "/",
 
   organizationName: "agentodyssey-submission",
-  projectName: "agentodyssey-submission",
+  projectName: "agentodyssey-submission.github.io",
   trailingSlash: false,
 
   onBrokenLinks: "throw",
