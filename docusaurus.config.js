@@ -12,7 +12,7 @@ const config = {
   },
 
   url: "https://agentodyssey-submission.github.io",
-  baseUrl: "/",
+  baseUrl: "/agentodyssey-submission/",
 
   organizationName: "agentodyssey-submission",
   projectName: "agentodyssey-submission",
